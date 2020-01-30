@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+* {
+    font-family: 'Nanum Gothic', sans-serif !important;
+}
+h3.title {
+    font-family: tahoma;
+    text-transform: uppercase;
+}
+.sc-video .background-video .content .title {
+    color: #fff;
+    font-size: 37px;
+    line-height: 62px;
+    max-width: 650px;
+    margin: 0 auto 50px;
+    font-family: tahoma !important;
+}
+.sc-posts.style-01 .item .content .title a {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: tahoma !important;
+}
+/*==========================*/
+
+header.header_v2.header-overlay .header-right a, .header_v2.header-overlay .navigation .main-menu >li >a, .header_v2.header-overlay .navigation .main-menu >li >span:not(.icon-toggle) {
+    color: #fff;
+    font-size: 12px;
+}

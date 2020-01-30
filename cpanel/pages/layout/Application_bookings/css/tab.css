@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cairo|Roboto+Mono&display=swap');
+
+
+table{
+    direction: rtl;
+    border: none;
+    text-align: center;
+    vertical-align: central;
+}
+.table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border-bottom-width: 0px;
+}
+table.table-bordered.dataTable tbody th, table.table-bordered.dataTable tbody td {
+    border-bottom-width: 0;
+    background: white;
+    font-family: 'Cairo', sans-serif;
+}
+thead {
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Cairo', sans-serif;
+}
+.table caption+thead tr:first-child th, .table colgroup+thead tr:first-child th, .table thead:first-child tr:first-child th, .table caption+thead tr:first-child td, .table colgroup+thead tr:first-child td, .table thead:first-child tr:first-child td {
+    border-top: 0;
+    text-align: center;
+    background: azure;
+}
+th {
+    text-align: center;
+}
+body#dummybodyid {
+    background: #38c6f3;
+}
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+    display: none;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+    height: 59px;
+    text-align: center;
+}
+table.table-bordered.dataTable tbody th, table.table-bordered.dataTable tbody td {
+    border-bottom-width: 0;
+    background: white;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    vertical-align: inherit;
+}
+tr.gradeX {
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    height: 59px;
+    vertical-align: inherit;
+}
+.table caption+thead tr:first-child th, .table colgroup+thead tr:first-child th, .table thead:first-child tr:first-child th, .table caption+thead tr:first-child td, .table colgroup+thead tr:first-child td, .table thead:first-child tr:first-child td {
+    border-top: 0;
+    text-align: center;
+    background: white;
+}
+tr {
+    background: white;
+}
+.btn{
+    font-family: 'Cairo', sans-serif   
+}
+.modal-header {
+    padding: 15px;
+    /* border-bottom: 1px solid #144555; */
+    border: none;
+    background: #d5f3ff;
+}
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+    font-family: 'Cairo', sans-serif;
+    text-align: -webkit-center;
+    font-size: 28px;
+}
+.modal-body {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+.modal-footer {
+    padding: 0px;
+    text-align: right;
+    /* border-top: 1px solid #e5e5e5; */
+    border: none;
+    /* background: #d5f3ff; */
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #ddd;
+    font-family: 'Cairo', sans-serif !important;
+}
+tbody {
+    font-family: 'Cairo', sans-serif !important;
+
+}
+.modal-content {
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1px;
+    height: 6px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.5);
+    box-shadow: 0 3px 9px rgba(0,0,0,.5);
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px #bafff9 dashed;
+    font-family: 'Cairo', sans-serif !important;
+    text-align: center;
+    vertical-align: inherit;
+    background: white;
+}
+span.label.label-success.gold {
+    background: gold !important;
+    color: #2c2c2b !important;
+    font-size: 14px;
+}
+span.label.label-danger.silv {
+    background: silver !important;
+    color: black !important;
+    font-size: 14px;
+}
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.table-hover>tbody>tr {
+    background-color: #f5f5f5;
+    height: 60px !important;
+    text-align: center;
+    vertical-align: initial;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    border-top: 1px dashed#bfe7ff;
+}
+h1.text-center {
+        font-family: 'Roboto Mono', monospace;
+font-family: 'Cairo', sans-serif;
+}

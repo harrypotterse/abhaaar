@@ -1,0 +1,14 @@
+        <script src="js/libs/jquery.min.js"></script><!-- jQuery -->
+        <script src="js/libs/stellar.min.js"></script><!-- parallax -->
+        <script src="js/libs/jquery-ui.min.js"></script><!-- ui -->
+        <script src="js/libs/daterangepicker.min.js"></script><!-- date -->
+        <script src="js/libs/daterangepicker.min-date.min.js"></script><!-- date2 -->
+        <script src="js/libs/bootstrap.min.js"></script><!-- Bootstrap -->
+        <script src="js/libs/smoothscroll.min.js"></script><!-- smoothscroll -->
+        <script src="js/libs/owl.carousel.min.js"></script><!-- Owl Carousel -->
+        <script src="js/libs/jquery.magnific-popup.min.js"></script><!-- Magnific Popup -->
+        <script src="js/libs/theia-sticky-sidebar.min.js"></script><!-- Sticky sidebar -->
+        <script src="js/libs/counter-box.min.js"></script><!-- counter -->
+        <script src="js/libs/gallery.min.js"></script><!-- gallery -->
+        <script src="js/libs/jquery.thim-content-slider.min.js"></script><!-- Slider -->
+        <script src="js/theme-customs.js"></script><!-- Theme Custom -->

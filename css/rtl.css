@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo|Open+Sans');
+body{direction:rtl;text-align:right;font-family: "cairo", sans-serif!important;}
+h1,h2,h3,h4,h5,h6,p,a,span{font-family: "cairo", sans-serif!important;}
+.home-main-content,.room_gallery{direction:ltr;}
+*{letter-spacing:0!important;}
+.comingsoon-wrapper{direction:ltr;}
+.navigation ul.main-menu {
+    padding-left: 44px;
+    float: right;
+    padding-right: 13px;
+}.search-room-popup .form-table >li {
+    text-align: right;
+    float: right;
+    padding: 0 15px;
+    width: 50%;
+    margin-bottom: 15px;
+}input[type="text"], input[type="email"], input[type="tel"], input[type="password"], input[type="search"] {
+    color: var(--body-font-color-1);
+    text-align: right;}
+form.wd-search-room .form-field:after{left:10px;right:auto;}
+.sc-travel.style-01 .content .inner {
+    text-align: right;}
+.hotel-booking-search .hb-form-table .hb-form-field{float:right;text-align:right;}
+.header-right {
+    padding: 18px 0;
+    float: left;
+    padding-right: 30px;
+}.sc-travel-search .hb-submit {
+    float: left;}
+.sc-travel-search .hb-form-table li{float:right;}
+.sc-travel-search .hb-form-table {
+    float: right;}
+.sc-travel-search .hb-form-table li input, .sc-travel-search .hb-form-table li select{float:right;text-align:right;}
+.footer{direction:rtl;text-align:right;}
+.sc-heading.style-02 .title,.description p{text-align:right;}
+.hotel-booking-search.style-01 .hb_input_field input{float:left;}
+.hotel-booking-search .hb-form-table {
+    background: #fff;
+    float: right;
+    margin: 0;
+    position: relative;
+}
+.language .dropdown-toggle span {
+    margin-right: 5px;
+}.box-item{text-align:right;}
+.li.countries:before{left:7.5;right:auto;}
+.sc-posts.style-01.auto-height .content {text-align:right;}
+.header_v2 .header-right .book-button {
+    margin-right: 25px;
+}
